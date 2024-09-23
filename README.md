@@ -5,6 +5,7 @@ This is a github repository for UF's Fall 2024 CURE class, eny2890. We will upda
 * Access Hipergator
 * Practice Bash
 * Submit first SLURM script
+* Watch video for background on GIT - https://www.youtube.com/watch?v=r8jQ9hVA2qs&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f
 * Make Github accounts
 * Clone this repository into our folders
 * Practice Branching and Committing updates to this GitHub 
