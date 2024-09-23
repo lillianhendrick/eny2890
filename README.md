@@ -1,7 +1,7 @@
 # eny2890
 This is a github repository for UF's Fall 2024 CURE class, eny2890. We will update this README file as the class goes on. 
 
-#Monday, September 23, 2024
+Monday, September 23, 2024
 Goals:
 *Access Hipergator
 *Practice Bash
